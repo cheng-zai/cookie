@@ -1,1 +1,1 @@
-{"ASP.NET_SessionId": "34ahodtzwh3cvivnnbbwn0y4", "SF_cookie_2": "73842339"}
+[{"name": "ASP.NET_SessionId", "value": "3mlnqmd5f4lajzvhz21j32vz", "domain": "jw.zzy.edu.cn", "path": "/", "expires": -1, "size": 41, "httpOnly": true, "secure": false, "session": true}, {"name": "SF_cookie_2", "value": "42653191", "domain": "jw.zzy.edu.cn", "path": "/", "expires": -1, "size": 19, "httpOnly": false, "secure": false, "session": true}]
